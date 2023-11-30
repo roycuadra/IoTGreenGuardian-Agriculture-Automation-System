@@ -10,7 +10,7 @@ Welcome to the IoTGreenGuardian Agriculture Automation System This open-source p
 - Motor and Relay: Enables automated irrigation based on real-time sensor data.
 - OLED Display: Offers a user-friendly interface for system status and information.
   
-##Features:
+## Features:
 
 - IoT Integration: Utilizes cloud technology for remote monitoring and control.
 - Smart Irrigation: Optimizes water usage by dynamically adjusting irrigation based on soil conditions.
